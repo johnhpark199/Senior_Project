@@ -11,4 +11,4 @@ LoRa script automatically harvests and collects any incoming LoRa packets. This 
 
 # PyUSB_Testing
 
-This folder is dedicated to the files used for the flashing of the RC2, following the guide listed on our senior project report at XXX. These files can be leveraged for correct operation of the RC2. 
+This folder is dedicated to the files used for the flashing of the RC2, following the guide listed on our senior project report within the appendix section. These files can be leveraged for correct operation of the RC2. 
